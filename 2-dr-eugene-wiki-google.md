@@ -36,6 +36,6 @@ Severe (6):
 
 # STUNTS
 
-* Because I am a Wise Old Man, I get a +2 when I cleverly overcome obstacles when I am trapped.
-* Because I am a Crazy Chemist, I get a +2 when I cleverly create an advantage when I use chemistry.
-* Because I am a Harmless Old Coot, once per game session, I can remain completely ignored by all enemies during an entire combat.
+* Because I am a *Wise Old Man*, I get a +2 when I cleverly overcome obstacles when I am trapped.
+* Because I am a *Crazy Chemist*, I get a +2 when I cleverly create an advantage when I use chemistry.
+* Because I am a *Harmless Old Coot*, once per game session, I can remain completely ignored by all enemies during an entire combat.
