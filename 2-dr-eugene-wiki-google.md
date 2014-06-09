@@ -25,12 +25,14 @@ Dr. Google was in charge of building an inescapable jail cell, but forgot to pro
 * Quick: 	0
 * Sneaky: 	1
 
-	Refresh: 		3
-	Fate Points: 	3
-	Stress: 		[ ][ ][ ]
-	Mild (2): 
-	Moderate (4):
-	Severe (6):
+<pre>
+Refresh: 		3
+Fate Points: 	3
+Stress: 		[ ][ ][ ]
+Mild (2): 
+Moderate (4):
+Severe (6):
+</pre>
 
 # STUNTS
 
