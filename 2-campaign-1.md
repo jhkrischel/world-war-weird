@@ -6,7 +6,17 @@
 
 ## Area 51
 
+* Description
+* Threat/Theme
+* The Aspect
+* The Face
+
 ## Echo Base Australia
+
+* Description
+* Threat/Theme
+* The Aspect
+* The Face
 
 # Arc 1: The Orient Express
 
