@@ -24,7 +24,7 @@ While zombies feast on human flesh, they generally do not eat enough of a human 
 
 While generally uncoordinated, large groups of humans sometimes attract zombie hordes of several hundred.  Current city fortresses generally shoot on sight, and maintain strict defensive boundary walls which are generally unscalable by zombies.  Zombies are also unable to swim, and tend to avoid water.
 
-Survivors who approach city fortresses without getting shot are subject to strict quarantine for five days minimum.  Some armored patrols are sent out from the cities, but their return also triggers five day minimum quarantine.
+Few survivors are ever allowed into cities, both because of the fear of infection, as well as the lack of adequate food and water.  Survivors who manage to approach city fortresses without getting shot indiscriminately by the authorities, are subject to strict quarantine for five days minimum.  Some armored patrols are sent out from the cities, but their return also triggers five day minimum quarantine.
 
 Zombies are more active at night, and are able to track human prey surprisingly well, using thermal vision, and a supernatural sense of smell.  Although generally shambling, if in pursuit of prey, they become much faster (although not quite standard human speed).
 
