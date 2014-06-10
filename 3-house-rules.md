@@ -1,3 +1,13 @@
+# Recovery from consequences
+
+Mild consequences last for 1 scene after the recovery action is made.
+
+Moderate consequences last until the end of the session the recovery action is made in.
+
+Severe consequences last until the end of the scenario the recovery action is made in.
+
+This tends to make it worthwhile to take consequences at the end of a session or scenario, since they'll recover pretty quickly.
+
 # Concessions
 
 Defender may decide to concede after an attack roll, but before their defense roll.  Any fate points spent by the attacker to the final attack roll are refunded.
