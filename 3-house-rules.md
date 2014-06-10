@@ -1,3 +1,15 @@
+# Concessions
+
+Defender may decide to concede after an attack roll, but before their defense roll.  Any fate points spent by the attacker to the final attack roll are refunded.
+
+Defender may decide to concede after their defense roll, *only* if the attack roll has not happened.
+
+The defender may decide the order of the rolls.
+
+Only supporting NPCs and main NPCs may concede - nameless NPCs (aka Mooks) cannot concede.
+
+Note: FAE only supports the second version of concession.
+
 # Creating a Scene Aspect
 
 * Creating a Scene Aspect with a fate point gives you one free invoke on that aspect
