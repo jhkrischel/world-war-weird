@@ -94,9 +94,9 @@ The countryside is infested by zombies, although not in particularly large group
 
 	- Dr. Vin Man Dan: Molecular Biologist before it was Cool
 		- Trouble: The whole world depends on me
-		- Aspect 1: 
-		- Aspect 2: 
-		- Stunt: 
+		- Aspect 1: Inner peace
+		- Aspect 2: Why did it have to be snakes?
+		- Stunt: Body Knowledge - use Lore to attack in hand to hand combat against unarmored opponents
 		- Physical Stress: [ ][ ]
 		- Mental Stress: [ ][ ]
 		- Mild (2):
@@ -116,7 +116,6 @@ The countryside is infested by zombies, although not in particularly large group
 		- Physical Stress: [ ][ ]
 		- Mental Stress: [ ][ ]
 		- Mild (2):
-		- Moderate (4): 
 		- Skills
 			- Stealth: 5
 			- Notice: 4
