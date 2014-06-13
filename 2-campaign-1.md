@@ -1,8 +1,12 @@
 # Current Issue - Alien Zombie Plague Unleashed Upon The World
 
-# Impending Issue - Bring Together The Team For The Cure
+We're from the government, and we're here to help.
 
-# Faces and places
+# Impending Issue - We're not alone in the universe
+
+When did alien contact first happen?  What do they want from us?
+
+# Faces and places (format cribbed from Dresden Files RPG)
 
 ## Area 51
 
@@ -13,10 +17,19 @@
 
 ## Echo Base Australia
 
-* Description
-* Threat/Theme
-* The Aspect
-* The Face
+* Description: Training ground for the Manhattan Project, Echo Base Australia is where boys are turned into men.
+* Theme
+	- The Idea: Practice makes perfect, and we can't have anything less than perfect.
+* The Aspect: Duty, Honor, Planet
+* The Face: Master Sgt. Simms, grizzled veteran of war
+
+## The Jungles of Nam
+
+* Description: Infested with zombies, the lush jungles of Vietnam contain desperate survivors, hardended mercs on patrol, and danger at every turn.
+* Threat
+	- The Idea: Nature is a harsh mistress, especially when filled with alien zombies
+* The Aspect: It's a jungle out there
+* The Face: Hang Vu, orphan survivor of the apocalypse.
 
 # Arc 1: The Orient Express
 
@@ -31,8 +44,21 @@ New Free Saigon is currently ruled by [Jean Decoux](http://en.wikipedia.org/wiki
 The countryside is infested by zombies, although not in particularly large groups.
 
 * Will the characters be able to make it through the jungle to the outskirts of Saigon?
+	- zombie ambush on the move
+	- helping hand for survivors running from zombies
+	- zombie ambush at night
+	- zombie chase and escape
+	- investigation of slaughtered patrol
 * Will the characters be able to convince the New Free Saigon authorities to let them in past quarantine?
+	- surviving the sentries
+	- surviving the quarantine
+	- navigating the bureaucracy
+	- who is Dr. Vinh Man Dan?
 * Will the characters be able to bring Dr. Vinh Man Dan safely back to the extraction submarine?
+	- mysterious stranger
+	- do we run for it?
+	- jungle boogie
+	- there's no place like home
 
 ### The Forbidden City
 
