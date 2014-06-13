@@ -10,10 +10,11 @@ When did alien contact first happen?  What do they want from us?
 
 ## Area 51
 
-* Description
-* Threat/Theme
-* The Aspect
-* The Face
+* Description: There was a lot more alien activity before Roswell, and here's where the US government put it all.
+* Theme
+	- The Idea: Alien technology is powerful, but poorly understood
+* The Aspect: Shiny Frickin Laser Guns
+* The Face: Professor Particle, recluse genius
 
 ## Echo Base Australia
 
@@ -59,6 +60,69 @@ The countryside is infested by zombies, although not in particularly large group
 	- do we run for it?
 	- jungle boogie
 	- there's no place like home
+
+#### NPCs
+
+* Nameless
+
+	- Average Zombie
+		+ Braaaaaains
+		+ Fight: 1
+	- Fair Zombie
+		+ Braaaaaains
+		+ Fight: 2
+		+ Provoke: 1
+		+ Stress: [ ]
+	- Good Zombie
+		+ Braaaaaains
+		+ Fight: 3
+		+ Provoke: 2
+		+ Athletics: 1
+		+ Stress: [ ][ ]
+	- Survivor (Average)
+		+ Run away!
+		+ Athletics: 1
+	- Patrol Merc (Good)
+		+ Shoot on sight
+		+ Shoot: 3
+		+ Athletics: 2
+		+ Notice: 1
+		+ Physique: 1
+		+ Stress: [ ][ ][ ]
+
+* Supporting
+
+	- Dr. Vin Man Dan: Molecular Biologist before it was Cool
+		- Trouble: The whole world depends on me
+		- Aspect 1: 
+		- Aspect 2: 
+		- Stunt: 
+		- Physical Stress: [ ][ ]
+		- Mental Stress: [ ][ ]
+		- Mild (2):
+		- Moderate (4): 
+		- Skills
+			- Lore: 5
+			- Investigate: 4
+			- Notice: 3
+			- Stealth: 2
+			- Athletics: 1
+
+	- Hang Vu: Orphan Survivor of the Apocalypse
+		- Trouble: My Speech was stolen by Terror
+		- Aspect 1: Booby traps!
+		- Aspect 2: I Will Survive.
+		- Stunt: Stealth - Ninja Vanish
+		- Physical Stress: [ ][ ]
+		- Mental Stress: [ ][ ]
+		- Mild (2):
+		- Moderate (4): 
+		- Skills
+			- Stealth: 5
+			- Notice: 4
+			- Athletics: 3
+			- Burglary: 2
+			- Investigate: 1
 
 ### The Forbidden City
 
