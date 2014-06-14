@@ -44,12 +44,17 @@ New Free Saigon is currently ruled by [Jean Decoux](http://en.wikipedia.org/wiki
 
 The countryside is infested by zombies, although not in particularly large groups.
 
+The team has been equipped with alien communication devices, each the size of a pack of cigarettes, with effectively unlimited range - direct communications back to Area 51 and Echo Base Australia are possible.
+
 * Will the characters be able to make it through the jungle to the outskirts of Saigon?
 	- zombie ambush on the move
 	- helping hand for survivors running from zombies
 	- zombie ambush at night
 	- zombie chase and escape
 	- investigation of slaughtered patrol
+	- [helicopter](http://en.wikipedia.org/wiki/Sikorsky_R-4) and explosions
+		+ 130 mile range
+		+ rescue 2 at a time
 * Will the characters be able to convince the New Free Saigon authorities to let them in past quarantine?
 	- surviving the sentries
 	- surviving the quarantine
@@ -59,6 +64,7 @@ The countryside is infested by zombies, although not in particularly large group
 	- mysterious stranger
 	- do we run for it?
 	- jungle boogie
+	- zombies don't surf
 	- there's no place like home
 
 #### NPCs
