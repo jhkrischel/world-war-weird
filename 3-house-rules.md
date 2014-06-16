@@ -26,6 +26,7 @@ Note: FAE only supports the second version of concession.
 	* you may use that invoke immediately
 * You can use an appropriate "Create Advantage" skill to create a Scene Aspect
 	* GM to determine target difficulty, or if NPCs may defend against it
+	* Despite the statement in Fate Core that "Lore isn't used in conflicts", it is possible to use Lore to create a scene aspect with "create advantage".
 * A Scene Aspect suggested by a PC can be agreed to immediately by the GM
 	* by default, there are no free invokes on this scene aspect
 * Secret or Hidden aspects can be discovered by certain skills using "Create Advantage"
@@ -61,7 +62,7 @@ Note: FAE only supports the second version of concession.
 	* If pinned character succeeds with interfered action, grapple is broken
 	* Pinned character rolls once, resistance skills either stack or roll separately
 		* E.g., pinned character attempts Fighting attack against grappler
-			* Grappler rolls once, but stacks Physique and Fighting to defend
+			* Grappler rolls once, but stacks Physique and Fighting to defend (add the skills together)
 			* If action would have succeeded against Physique alone, grapple is broken, but attack fails
 		* E.g., pinned character attempts Fighting attack against nearby non-grappling character
 			* Grappler rolls once with Physique to interfere
@@ -70,9 +71,9 @@ Note: FAE only supports the second version of concession.
 ## Covering fire
 
 * Create advantage roll against difficulty determined by GM (how difficult is it to cover the area in question)
-* Free active resistance against movement through the area (athletics/stealth overcome roll)
+* Free active resistance with Shoot against movement through the area (athletics/stealth overcome roll)
 	* If resistance is successful, moving character may choose to avoid movement (forced to stay put), or to take a 1-shift hit from the shooter (weapon damage and armor are not applied to this 1-shift hit).
-* Free active resistance against Shooting attacks through the area
+* Free active resistance with Shoot against Shooting attacks through the area
 	* If resistance is successful, attacking character may choose to avoid attack (forced to stay down), or to take a 1-shift hit from the shooter (weapon damage and armor are not applied to this 1-shift hit) and make their attack.
 * Covering fire aspect is removed if shooter decides to make a direct attack
 

@@ -16,7 +16,7 @@ When did alien contact first happen?  What do they want from us?
 * The Aspect: Shiny Frickin Laser Guns
 * The Face: Professor Particle, recluse genius
 
-## Echo Base Australia
+## Echo Base, Australia
 
 * Description: Training ground for the Manhattan Project, Echo Base Australia is where boys are turned into men.
 * Theme
@@ -31,6 +31,22 @@ When did alien contact first happen?  What do they want from us?
 	- The Idea: Nature is a harsh mistress, especially when filled with alien zombies
 * The Aspect: It's a jungle out there
 * The Face: Hang Vu, orphan survivor of the apocalypse.
+
+## Binhai Docks
+
+* Description: A working dock commandeered by the military used for supply for both Tianjin and Beijing
+* Theme
+	- The Idea: Between the war with Japan, and the zombie apocalypse, most of the soldiers in place are children, trying their best to live up to the adult responsibilities they've been given.
+* The Aspect: Shattered dreams
+* The Face: Sgt. Bai Wen Shang, age 12
+
+## Beijing slums
+
+* Description: Opium dens, gambling houses, and other places of ill repute.
+* Threat
+	- The Idea: The Tongs fill a power vacuum left by the zombie apocalypse, and guard their prerogatives jealously.
+* The Aspect: Never will you find a more wretched hive of scum and villainy
+* The Face: Zhu Shi Li, Tong fixer
 
 # Arc 1: The Orient Express
 
@@ -130,6 +146,47 @@ The team has been equipped with alien communication devices, each the size of a 
 			- Investigate: 1
 
 ### The Forbidden City
+
+Attention team!  Dr. Vinh Man Dan has been successfully transferred to the USS Dennis J. Buckley, and is heading back to Area 51.  Our next mission is the recovery and return of Colonel Chow Yin Fat, a weapons and technology expert who worked for the late President Chiang Kai-shek.  Acting president Lin Sen has agreed to arrange a military escort you from Binhai, Tianjin, to the Forbidden City in Beijing.  You'll continue on in the USS Mingo to Tianjin, where you'll meet Sgt. Bai Wen Shang, who will take you from there to Beijing.  On a personal note, there's word of a kite festival in Bejing this month - little Molly Simms sure would like it if you'd bring back a genuine Chinese kite on your way back to Echo Base!  Also, while you're at the Forbidden City facility, Dr. Google and Yvormes are to consult regarding some recently recovered alien technology.
+
+* Will the characters survive the convoy trip from Tianjin to Beijing?
+	- zombie pandas
+	- survivors
+* What more will the characters learn about the shadowy Medusa organization?
+	- medusa ambush for Dr. Google
+* What kind of kite will the team find for Molly Simms?
+* What will the catch be for Chow Yin Fat's cooperation?
+	- quid pro quo from Dr. Google
+* What will Dr. Google and Yvormes discover about the alien tech collected by the Colonel?
+* Will the Colonel be ready to leave when they arrive at the base?
+	- anybody home?
+* Where will the next mystery lead them?
+	- whack an alien mole, girl style
+	- shady opium den
+	- rooftop chase in china town
+	- on the hunt
+* Will the team make it safely back to the Mingo?
+
+#### NPCs
+
+* Nameless
+
+	- Panda Zombie
+		+ Braaaaaains
+		+ Eerily Cute
+		+ Fight: 4
+		+ Physique: 3
+		+ Athletics: 2
+		+ Provoke: 1
+		+ Stress: [ ][ ][ ][ ]
+	- Medusa Ninja (Good)
+		+ You'll never take me alive!
+		+ Fight: 4
+		+ Shoot: 3
+		+ Athletics: 2
+		+ Notice: 1
+		+ Physique: 1
+		+ Stress: [ ][ ][ ]
 
 ### Tokyo Wako
 
