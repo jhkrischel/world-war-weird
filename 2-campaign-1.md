@@ -147,7 +147,9 @@ The team has been equipped with alien communication devices, each the size of a 
 
 ### The Forbidden City
 
-Attention team!  Dr. Vinh Man Dan has been successfully transferred to the USS Dennis J. Buckley, and is heading back to Area 51.  Our next mission is the recovery and return of Colonel Chow Yin Fat, a weapons and technology expert who worked for the late President Chiang Kai-shek.  Acting president Lin Sen has agreed to arrange a military escort you from Binhai, Tianjin, to the Forbidden City in Beijing.  You'll continue on in the USS Mingo to Tianjin, where you'll meet Sgt. Bai Wen Shang, who will take you from there to Beijing.  On a personal note, there's word of a kite festival in Bejing this month - little Molly Simms sure would like it if you'd bring back a genuine Chinese kite on your way back to Echo Base!  Also, while you're at the Forbidden City facility, Dr. Google and Yvormes are to consult regarding some recently recovered alien technology.
+Attention team!  Dr. Vinh Man Dan has been successfully transferred to the USS Dennis J. Buckley, and is heading back to Area 51.  Unfortunately, shortly after you left New Free Saigon, it fell to the plague - we'll be closely monitoring you and the submarine crew for any signs of latent infection.
+
+Our next mission is the recovery and return of Colonel Chow Yin Fat, a weapons and technology expert who worked for the late President Chiang Kai-shek.  Acting president Lin Sen has agreed to arrange a military escort you from Binhai, Tianjin, to the Forbidden City in Beijing.  You'll continue on in the USS Mingo to Tianjin, where you'll meet Sgt. Bai Wen Shang, who will take you from there to Beijing.  On a personal note, there's word of a kite festival in Bejing this month - little Molly Simms sure would like it if you'd bring back a genuine Chinese kite on your way back to Echo Base!  Also, while you're at the Forbidden City facility, Dr. Google and Yvormes are to consult regarding some recently recovered alien technology.
 
 * Will the characters survive the convoy trip from Tianjin to Beijing?
 	- zombie pandas
@@ -191,5 +193,13 @@ Attention team!  Dr. Vinh Man Dan has been successfully transferred to the USS D
 ### Tokyo Wako
 
 # Arc 2: African Safari
+
+## Scenarios
+
+### Diamonds are Forever
+
+### Trouble in the Congo
+
+### Pyramid Power
 
 # Arc 3: The Belly Of The Beast
