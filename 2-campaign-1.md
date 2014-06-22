@@ -151,6 +151,7 @@ Attention team!  Dr. Vinh Man Dan has been successfully transferred to the USS D
 
 Our next mission is the recovery and return of Colonel Chow Yin Fat, a weapons and technology expert who worked for the late President Chiang Kai-shek.  Acting president Lin Sen has agreed to arrange a military escort you from Binhai, Tianjin, to the Forbidden City in Beijing.  You'll continue on in the USS Mingo to Tianjin, where you'll meet Sgt. Bai Wen Shang, who will take you from there to Beijing.  On a personal note, there's word of a kite festival in Bejing this month - little Molly Simms sure would like it if you'd bring back a genuine Chinese kite on your way back to Echo Base!  Also, while you're at the Forbidden City facility, Dr. Google and Yvormes are to consult regarding some recently recovered alien technology.
 
+* Will Myne get into trouble in the Tianjin Brothel?
 * Will the characters survive the convoy trip from Tianjin to Beijing?
 	- zombie pandas
 	- survivors
