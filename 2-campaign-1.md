@@ -151,23 +151,35 @@ Attention team!  Dr. Vinh Man Dan has been successfully transferred to the USS D
 
 Our next mission is the recovery and return of Colonel Chow Yin Fat, a weapons and technology expert who worked for the late President Chiang Kai-shek.  Acting president Lin Sen has agreed to arrange a military escort you from Binhai, Tianjin, to the Forbidden City in Beijing.  You'll continue on in the USS Mingo to Tianjin, where you'll meet Sgt. Bai Wen Shang, who will take you from there to Beijing.  On a personal note, there's word of a kite festival in Bejing this month - little Molly Simms sure would like it if you'd bring back a genuine Chinese kite on your way back to Echo Base!  Also, while you're at the Forbidden City facility, Dr. Google and Yvormes are to consult regarding some recently recovered alien technology.
 
+#### Session 1
+
 * Will Myne get into trouble in the Tianjin Brothel?
+	- yes, but he recovered his ring
 * Will the characters survive the convoy trip from Tianjin to Beijing?
+	- 2 armored cars, 6 trucks, 2 towed artillery
+		+ together in 3rd truck with sgt. bai wen shang
 	- zombie pandas
 	- survivors
 * What more will the characters learn about the shadowy Medusa organization?
 	- medusa ambush for Dr. Google
+	- mob of soldiers helped
+	- yvormes scared them with plague threat
 * What kind of kite will the team find for Molly Simms?
+	- kite is bugged
 * What will the catch be for Chow Yin Fat's cooperation?
 	- quid pro quo from Dr. Google
 * What will Dr. Google and Yvormes discover about the alien tech collected by the Colonel?
+	- found ultimate power supply
 * Will the Colonel be ready to leave when they arrive at the base?
 	- anybody home?
 * Where will the next mystery lead them?
 	- whack an alien mole, girl style
 	- shady opium den
-	- rooftop chase in china town
-	- on the hunt
+	- rooftop chase in china town avoided with fancy smokeout
+
+#### Session 2
+
+* Will the team successfully ambush Medusa to rescue Chow Yin Fat?
 * Will the team make it safely back to the Mingo?
 
 #### NPCs

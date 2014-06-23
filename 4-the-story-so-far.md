@@ -7,3 +7,5 @@ The team practices against robot drones in a simulated hostage rescue mission in
 The team makes it through the jungle, past the quarantine, past four Ninjas of Medusa, to finally rescue and return Dr. Vinh Man Dan.
 
 # Jaunary 20, 1944 to February 14, 1944 - The Forbidden City
+
+The team arrives at Tianjin, convoys to Beijing, and finds Chow Yin Fat kidnapped by Medusa.
