@@ -194,6 +194,42 @@ Our next mission is the recovery and return of Colonel Chow Yin Fat, a weapons a
 
 #### NPCs
 
+* Supporting
+
+	- Du Tu Soon: Shady Spymaster
+		- Trouble: On the wrong side of history
+		- Aspect 1: Functional drug addict
+		- Aspect 2: More than meets the eye
+		- Physical Stress: [ ][ ]
+		- Mental Stress: [ ][ ]
+		- Mild (2):
+		- Moderate (4): 
+		- Skills
+			- Deceive: 5
+			- Investigate: 4
+			- Notice: 3
+			- Stealth: 2
+			- Athletics: 1
+
+	- Colonel Chow Yin Fat: Weapons Designer of the Middle Kingdom
+		- Trouble: Where did I leave my glasses?
+		- Aspect 1: We need more power!
+		- Aspect 2: Kung Fu Master
+		- Physical Stress: [ ][ ][ ]
+		- Mental Stress: [ ][ ][ ]
+		- Mild (2):
+		- Moderate (4): 
+		- Skills
+			- Fight: 5
+			- Lore: 4
+			- Shoot: 4
+			- Notice: 3
+			- Stealth: 3
+			- Athletics: 2
+			- Provoke: 2
+			- Will: 1
+			- Physique: 1
+
 * Nameless
 
 	- Panda Zombie
@@ -225,6 +261,9 @@ Our next mission is the recovery and return of Colonel Chow Yin Fat, a weapons a
 	- Armored Car
 		+ Off road
 		+ Military grade
+		+ Limited Visibility
+		+ Shoot: 5
+		+ Fight: 5
 		+ Armor: 2 - Heavy Steel Plating
 		+ Weapon: 2 - mounted .50 cal
 		+ Mild (2): 
@@ -235,6 +274,7 @@ Our next mission is the recovery and return of Colonel Chow Yin Fat, a weapons a
 		+ Heavy Load
 		+ External Fuel Tanks
 		+ Low and slow gear
+		+ Fight: 4
 		+ Mild (2): 
 		+ Stress: [ ]
 
