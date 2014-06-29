@@ -269,7 +269,7 @@ Our next mission is the recovery and return of Colonel Chow Yin Fat, a weapons a
 		+ Mild (2): 
 		+ Moderate (4):
 		+ Severe (6):
-		+ Stress: [ ][ ][X]
+		+ Stress: [ ][ ][ ]
 	- 2 ton truck
 		+ Heavy Load
 		+ External Fuel Tanks
