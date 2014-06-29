@@ -186,10 +186,10 @@ Our next mission is the recovery and return of Colonel Chow Yin Fat, a weapons a
 	- Will the ambush effect the rescue of Chow Yin Fat?
 	- Will Klaus be defeated again, or will the team have to flee?
 * Will the team be able to avoid detection in zombie infested wilderness from the hunting Medusa?
-	- What mystery contact from one of the team member's past will help save them at the last minute?
 * Once back in Beijing, will the team be able to prevent the destruction of the secret base, or the entire city?
+	- What mystery contact from one of the team member's past will turn out to be a traitor?
 	- Where's the bomb!!???
-* Will the team make it safely back to Tianjin on the convoy?
+* Will the team make it safely back to Tianjin?
 	- What tragedy will they find when they return?
 
 #### NPCs
@@ -269,7 +269,7 @@ Our next mission is the recovery and return of Colonel Chow Yin Fat, a weapons a
 		+ Mild (2): 
 		+ Moderate (4):
 		+ Severe (6):
-		+ Stress: [ ][ ][ ]
+		+ Stress: [ ][ ][X]
 	- 2 ton truck
 		+ Heavy Load
 		+ External Fuel Tanks

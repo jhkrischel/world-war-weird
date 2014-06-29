@@ -1,3 +1,23 @@
+# serious cost vs. minor cost
+
+Fate Core p189
+
+## minor cost
+
+* Foreshadow some imminent peril
+* Introduce a new wrinkle
+* Present the player with a tough choice
+* Place an aspect on the PC or the scene
+* Give an NPC a boost
+* Check off one stress box
+
+## serious cost
+
+* reinforce the opposition
+* bring in new opposition or a new obstacle
+* delay success
+* give the PC a consequence that follows logically from the circumstances
+
 # Recovery from consequences
 
 Mild consequences last for 1 scene after the recovery action is made.
