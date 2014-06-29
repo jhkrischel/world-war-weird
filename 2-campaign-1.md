@@ -180,7 +180,17 @@ Our next mission is the recovery and return of Colonel Chow Yin Fat, a weapons a
 #### Session 2
 
 * Will the team successfully ambush Medusa to rescue Chow Yin Fat?
-* Will the team make it safely back to the Mingo?
+	- Will the team be able to find the information on where the armored column is?
+		+ Dun Tu Soon will try to misinform the team and escape to warn Medusa
+	- Will the team have enough time to setup a proper ambush?
+	- Will the ambush effect the rescue of Chow Yin Fat?
+	- Will Klaus be defeated again, or will the team have to flee?
+* Will the team be able to avoid detection in zombie infested wilderness from the hunting Medusa?
+	- What mystery contact from one of the team member's past will help save them at the last minute?
+* Once back in Beijing, will the team be able to prevent the destruction of the secret base, or the entire city?
+	- Where's the bomb!!???
+* Will the team make it safely back to Tianjin on the convoy?
+	- What tragedy will they find when they return?
 
 #### NPCs
 
@@ -202,6 +212,31 @@ Our next mission is the recovery and return of Colonel Chow Yin Fat, a weapons a
 		+ Notice: 1
 		+ Physique: 1
 		+ Stress: [ ][ ][ ]
+	- Medusa Grunt (Fair)
+		+ Just following orders
+		+ Shoot: 2
+		+ Athletics: 1
+		+ Stress: [ ]
+	- Medusa Patrol (Fair)
+		+ Call for help!
+		+ Notice: 2
+		+ Shoot: 1
+		+ Stress: [ ]
+	- Armored Car
+		+ Off road
+		+ Military grade
+		+ Armor: 2 - Heavy Steel Plating
+		+ Weapon: 2 - mounted .50 cal
+		+ Mild (2): 
+		+ Moderate (4):
+		+ Severe (6):
+		+ Stress: [ ][ ][ ]
+	- 2 ton truck
+		+ Heavy Load
+		+ External Fuel Tanks
+		+ Low and slow gear
+		+ Mild (2): 
+		+ Stress: [ ]
 
 ### Tokyo Wako
 
