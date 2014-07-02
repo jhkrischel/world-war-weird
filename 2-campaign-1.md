@@ -280,6 +280,45 @@ Our next mission is the recovery and return of Colonel Chow Yin Fat, a weapons a
 
 ### Tokyo Wako
 
+Attention team!  The loss of the USS Mingo and her crew is mourned by all here at Echo Base.  We're just grateful your team wasn't among the victims.
+
+The USS Arizona, that was called in to scuttle the USS Mingo from offshore, is our only available transport at this time in the area.  While we would like to have Colonel Fat join us here at Echo Base as soon as possible, you are urgently needed to pursue Edward Sherman, suspected of causing the catastrophic zed breaches at both New Saigon and Beijing.  Yokosuka is the only open quarantine port in all of Japan, and we are tracking Mr. Sherman on a transport scheduled to arrive there with delivery supplies.
+
+It is imperative that you discover who Mr. Sherman is working for, so that we can begin to combat their threat.
+
+The next scheduled target for retrieval is Professor Kiyoshi Watanabe of Tokyo University.  He's a theoretical mathemetician who is needed for statistical computing analysis on the zombie plague.
+
+* Why was Yvormes *really* gone?
+	- What useful tech has Yvormes managed to acquire?  Is there a catch?
+* Will the USS Arizona survive an attack by Medusa aircraft?
+* What shadowy force will Edward lead the team to in Yokosuka?
+	* Will the team survive the encounter?
+	* Will Medusa be there as well?
+	* What happened to the real Edward Sherman?
+		- What will Nome do about it?
+* Will the team be able to convince someone at Tokyo University to tell them where Professor Watanabe is currently working?
+	- what test of honor will Seto have to pass?
+	- what mission will Seto be given by his master's master?
+* Will the team be able to help Professor Watanabe retrieve the alien computing artifact at the dig site?
+* Will the team be able to rescue Professor Watanabe's wife from Medusa?
+	- What will Professor Watanabe's wife think about seeing Dr. Google again?
+	- What will Professor Watanabe's wife think about seeing Myne again?
+
+#### NPCs
+
+* Supporting
+	- Professor Kiyoshi Watanabe: Mad Math Genius
+	- Mrs. Suzuko Watanabe: Lady Of Diverse Tastes
+	- USS Arizona: Alien Enhanced Battleship
+
+* Nameless
+	- Medusa Torpedo Bomber
+	- Medusa Cruiser
+	- Mystery Handler of Edward
+	- Medusa Assassin
+	- Ninja Warrior
+	- Ninja Zombie
+
 # Arc 2: African Safari
 
 ## Scenarios
