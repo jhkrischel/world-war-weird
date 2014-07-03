@@ -48,6 +48,38 @@ When did alien contact first happen?  What do they want from us?
 * The Aspect: Never will you find a more wretched hive of scum and villainy
 * The Face: Zhu Shi Li, Tong fixer
 
+## Odawara Castle
+
+* Description: The classic Game of Death castle of doom.
+* Threat
+	- The Idea: Professor Watanabe's wife held captive by Medusa
+* The Aspect: It's a rough climb to the top
+* The Face: Suzuko Watanabe, Old Maid in Distress
+
+## Yokosuka Rail Yard
+
+* Description: Military traffic hub
+* Threat
+	- The Idea: Edward Sherman's doppleganger reports to his masters here
+* The Aspect: Hiding in plain sight
+* The Face: Edward Sherman, Evil Doppleganger
+
+## Tokyo University
+
+* Description: Dedicated to preserving the culture of Nippon
+* Theme
+	- The Idea: Behind the facade, the University is protected by an honor guard of ninja masters
+* The Aspect: Secrets within the walls
+* The Face: Janitor Hachiro, Ninja Overlord
+
+## [Toro](http://en.wikipedia.org/wiki/Toro_(archaeological_site))
+
+* Description: Ancient alien contaminated village site
+* Theme
+	- The Idea: Construction on a military munitions site leads ot the discovery of an ancient village, that just so happens to have some alien influence.
+* The Aspect: Buried in the Sands of Time, Aliens live
+* The Face: Professor Kiyoshi Watanabe
+
 # Arc 1: The Orient Express
 
 ## Scenarios
@@ -290,17 +322,17 @@ The next scheduled target for retrieval is Professor Kiyoshi Watanabe of Tokyo U
 
 * Why was Yvormes *really* gone?
 	- What useful tech has Yvormes managed to acquire?  Is there a catch?
-* Will the USS Arizona survive an attack by Medusa aircraft?
-* What shadowy force will Edward lead the team to in Yokosuka?
-	* Will the team survive the encounter?
-	* Will Medusa be there as well?
+* Will the USS Arizona survive an attack by Medusa aircraft? [defense]
+* What shadowy force will Edward lead the team to in Yokosuka? [scouting]
+	* Will the team survive the encounter? [react to ambush]
+	* Will Medusa be there as well? [escape]
 	* What happened to the real Edward Sherman?
-		- What will Nome do about it?
+		- What will Nome do about it? [hostage rescue]
 * Will the team be able to convince someone at Tokyo University to tell them where Professor Watanabe is currently working?
-	- what test of honor will Seto have to pass?
-	- what mission will Seto be given by his master's master?
-* Will the team be able to help Professor Watanabe retrieve the alien computing artifact at the dig site?
-* Will the team be able to rescue Professor Watanabe's wife from Medusa?
+	- what test of honor will Seto have to pass? [item retrieval/assault]
+	- what mission will Seto be given by his master's master? [chase/bomb planting]
+* Will the team be able to help Professor Watanabe retrieve the alien computing artifact at the dig site? [item retrieval]
+* Will the team be able to rescue Professor Watanabe's wife from Medusa holed up at Odawara Castle? [hostage rescue]
 	- What will Professor Watanabe's wife think about seeing Dr. Google again?
 	- What will Professor Watanabe's wife think about seeing Myne again?
 
