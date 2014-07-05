@@ -1,3 +1,33 @@
+# boosts revisited
+
+Consider this a (unedited) replacement for the text about boosts on page 58.
+
+## Boosts
+
+Boosts are temporary, free-floating invocations that happen when you get a momentary benefit that isn’t lasting enough to be an aspect. You get a boost when you’re trying to create an advantage but don’t succeed well enough, or as an added benefit to succeeding especially well at an action (notably defending). You invoke boosts just like you would for an aspect, for the +2, reroll, or other effect that requires an invocation. As with aspect invocations, you need to describe what’s happening that makes that boost relevant to your action.
+
+Once you invoke the boost, it goes away. They go away on their own fairly quickly—usually after the next action when you could use them—so use them as soon as possible! If you want, you can allow another character to invoke your boost, though it needs to be relevant to their action and could help them out.
+
+When you earn a boost, give it a name like you would an aspect to help you remember where the boost came from and how you can use it. Don’t dwell on coming up with something clever, since it doesn’t last long.
+
+Just remember that a boost isn’t a full, “grown up” aspect—you can’t compel with it, use it as permission for extras, pay a fate point to invoke it again, or other things that manipulate aspects or that aspects affect. But you can promote it to a full aspect; see Promoting Boosts below.
+
+## Leaving Boosts Unnamed
+
+If you’re struggling to name a boost, let it be unnamed and continue playing—boosts aren’t worth stopping play to name! If you do, though, you’ll have to keep track of the situation that created the boost, which some people find difficult to remember.
+
+## Promoting Boosts
+
+Sometimes when you’re creating a new aspect, you find that there’s a boost in play that’s exactly the aspect you want to make, turning a momentary benefit into a lasting one. Great! That’s called promoting a boost. Just declare an aspect you’re making to have the same name as a boost in play, and you’re done. If the action gives this new aspect a free invocation, it has two instead thanks to the boost being active. If you haven’t named the boost yet, now’s the time to do it.
+
+For example, say you parry my sword strike and get a boost from that defend action, and we say that you managed to get me A Little Off-Balance. On your next action, you follow-up by saying that you want to keep me off-balance by creating an advantage. You roll for the advantage, succeed without needing to use the boost, and then name the advantage A Little Off-Balance with two free invocations (or three if you succeeded with style—essentially one extra free invocation).
+
+Even if you’ve used a boost already, nothing says you can’t bring that idea back around as an aspect later in the scene if it’s appropriate. There’s no special rule about that, just something to keep in mind. In our example above, you could still create the A Little Off-Balance advantage, even if you use the boost on that roll or on a past turn.
+
+## Remember that Boosts are not Aspects
+
+Unlike aspects, you cannot compel a boost or pay a fate point to invoke a boost (including invoking it against its owner (“Having your Aspects Invoked Against You” on Fate Core System p.81). Any other rules that require an aspect to exist or be used don’t count for boosts. Don’t let the fact that they’re often given names mislead you.
+
 # serious cost vs. minor cost
 
 Fate Core p189
