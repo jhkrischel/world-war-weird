@@ -342,7 +342,28 @@ The next scheduled target for retrieval is Professor Kiyoshi Watanabe of Tokyo U
 	- Professor Kiyoshi Watanabe: Mad Math Genius
 	- Mrs. Suzuko Watanabe: Lady Of Diverse Tastes
 	- USS Arizona: Alien Enhanced Battleship
-
+		+ Torpedoes (2) - [ ][ ]
+			* Shoot: 6
+			* Weapon: 4
+			* Armor: 4
+		+ Bridge - [ ][ ][ ]
+			* Lore: 4
+			* Armor: 3
+		+ Forward Deck - [ ][ ][ ]
+			* Shoot: 6
+			* Weapon: 4
+			* Armor: 4
+			* 5" guns (11) - mild
+			* AA guns (2) - moderate
+			* 14" guns (2) - severe
+		+ Rear Deck - [ ][ ][ ]
+			* Shoot: 6
+			* Weapon: 4
+			* Armor: 4
+			* 5" guns (11) - mild
+			* AA guns (2) - moderate
+			* 14" guns (2) - severe
+		
 * Nameless
 	- Medusa Torpedo Bomber
 	- Medusa Cruiser

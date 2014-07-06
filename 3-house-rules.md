@@ -1,32 +1,52 @@
-# boosts revisited
+# errata
+
+[These are errata to the version of Fate Core released July 2013.](https://docs.google.com/document/d/1wvZasbKtQgmR-p8wvPcNw7jdy7QAftMmQxvMEz4gof4/edit)
+
+**Page 69:** *Rewording this sentence as follows; new text in bold:* If the aspect you invoke is on someone else's character sheet, including situation aspects attached to them, **and the invoke is to their disadvantage,** you give them the fate point you spent. **(Invoking a third party's aspect is treated just like invoking an unattached situation aspect.)**
+
+**Page 140:** Simple typo “get you get” should just be “get you”.
+
+**Page 149:** Simple typo “that's next scene” should be “that's the next scene”.
+
+**Page 152:** The example is technically incorrect (the version of contests expressed on the previous page is correct). Cynere didn't need to push for a success with style. She's always been an overachiever. 
+
+We plan to rewrite this for the PDF at the least, but we were too slow to catch it before the book went to press. The example will show Cynere not succeeding with style in her second exchange, just succeeding normally; then everything proceeds as written, with her double-invoke getting a SWS result and a total of three victories.
+
+**Page 252:** Should be “told in the span of a few scenarios” not “told in the span of a few sessions”.
+
+**Page 273:** Simple typo “those stunt modify” should be “those stunts modify”.
+
+**Page 280:** Simple typo “You have Armor:2 vs.” should be “You have Armor:2 on”.
+
+# [boosts revisited](http://ryanmacklin.com/2014/01/fate-boosts-revisited/)
 
 Consider this a (unedited) replacement for the text about boosts on page 58.
 
 ## Boosts
 
-Boosts are temporary, free-floating invocations that happen when you get a momentary benefit that isn’t lasting enough to be an aspect. You get a boost when you’re trying to create an advantage but don’t succeed well enough, or as an added benefit to succeeding especially well at an action (notably defending). You invoke boosts just like you would for an aspect, for the +2, reroll, or other effect that requires an invocation. As with aspect invocations, you need to describe what’s happening that makes that boost relevant to your action.
+Boosts are temporary, free-floating invocations that happen when you get a momentary benefit that isn't lasting enough to be an aspect. You get a boost when you're trying to create an advantage but don't succeed well enough, or as an added benefit to succeeding especially well at an action (notably defending). You invoke boosts just like you would for an aspect, for the +2, reroll, or other effect that requires an invocation. As with aspect invocations, you need to describe what's happening that makes that boost relevant to your action.
 
-Once you invoke the boost, it goes away. They go away on their own fairly quickly—usually after the next action when you could use them—so use them as soon as possible! If you want, you can allow another character to invoke your boost, though it needs to be relevant to their action and could help them out.
+Once you invoke the boost, it goes away. They go away on their own fairly quickly-usually after the next action when you could use them-so use them as soon as possible! If you want, you can allow another character to invoke your boost, though it needs to be relevant to their action and could help them out.
 
-When you earn a boost, give it a name like you would an aspect to help you remember where the boost came from and how you can use it. Don’t dwell on coming up with something clever, since it doesn’t last long.
+When you earn a boost, give it a name like you would an aspect to help you remember where the boost came from and how you can use it. Don't dwell on coming up with something clever, since it doesn't last long.
 
-Just remember that a boost isn’t a full, “grown up” aspect—you can’t compel with it, use it as permission for extras, pay a fate point to invoke it again, or other things that manipulate aspects or that aspects affect. But you can promote it to a full aspect; see Promoting Boosts below.
+Just remember that a boost isn't a full, "grown up" aspect-you can't compel with it, use it as permission for extras, pay a fate point to invoke it again, or other things that manipulate aspects or that aspects affect. But you can promote it to a full aspect; see Promoting Boosts below.
 
 ## Leaving Boosts Unnamed
 
-If you’re struggling to name a boost, let it be unnamed and continue playing—boosts aren’t worth stopping play to name! If you do, though, you’ll have to keep track of the situation that created the boost, which some people find difficult to remember.
+If you're struggling to name a boost, let it be unnamed and continue playing-boosts aren't worth stopping play to name! If you do, though, you'll have to keep track of the situation that created the boost, which some people find difficult to remember.
 
 ## Promoting Boosts
 
-Sometimes when you’re creating a new aspect, you find that there’s a boost in play that’s exactly the aspect you want to make, turning a momentary benefit into a lasting one. Great! That’s called promoting a boost. Just declare an aspect you’re making to have the same name as a boost in play, and you’re done. If the action gives this new aspect a free invocation, it has two instead thanks to the boost being active. If you haven’t named the boost yet, now’s the time to do it.
+Sometimes when you're creating a new aspect, you find that there's a boost in play that's exactly the aspect you want to make, turning a momentary benefit into a lasting one. Great! That's called promoting a boost. Just declare an aspect you're making to have the same name as a boost in play, and you're done. If the action gives this new aspect a free invocation, it has two instead thanks to the boost being active. If you haven't named the boost yet, now's the time to do it.
 
-For example, say you parry my sword strike and get a boost from that defend action, and we say that you managed to get me A Little Off-Balance. On your next action, you follow-up by saying that you want to keep me off-balance by creating an advantage. You roll for the advantage, succeed without needing to use the boost, and then name the advantage A Little Off-Balance with two free invocations (or three if you succeeded with style—essentially one extra free invocation).
+For example, say you parry my sword strike and get a boost from that defend action, and we say that you managed to get me A Little Off-Balance. On your next action, you follow-up by saying that you want to keep me off-balance by creating an advantage. You roll for the advantage, succeed without needing to use the boost, and then name the advantage A Little Off-Balance with two free invocations (or three if you succeeded with style-essentially one extra free invocation).
 
-Even if you’ve used a boost already, nothing says you can’t bring that idea back around as an aspect later in the scene if it’s appropriate. There’s no special rule about that, just something to keep in mind. In our example above, you could still create the A Little Off-Balance advantage, even if you use the boost on that roll or on a past turn.
+Even if you've used a boost already, nothing says you can't bring that idea back around as an aspect later in the scene if it's appropriate. There's no special rule about that, just something to keep in mind. In our example above, you could still create the A Little Off-Balance advantage, even if you use the boost on that roll or on a past turn.
 
 ## Remember that Boosts are not Aspects
 
-Unlike aspects, you cannot compel a boost or pay a fate point to invoke a boost (including invoking it against its owner (“Having your Aspects Invoked Against You” on Fate Core System p.81). Any other rules that require an aspect to exist or be used don’t count for boosts. Don’t let the fact that they’re often given names mislead you.
+Unlike aspects, you cannot compel a boost or pay a fate point to invoke a boost (including invoking it against its owner (“Having your Aspects Invoked Against You” on Fate Core System p.81). Any other rules that require an aspect to exist or be used don't count for boosts. Don't let the fact that they're often given names mislead you.
 
 # serious cost vs. minor cost
 
@@ -133,29 +153,29 @@ Note: FAE only supports the second version of concession.
 
 The Ride skill covers riding horses and other more exotic animals, as well as piloting animal-driven vehicles like wagons and stage coaches.
 
-* Overcome: Ride is the equivalent of Athletics when you’re on horseback (or other-creature-back) or when you’re piloting one of the aforementioned vehicles. Use it to do difficult things or to do normal things under difficult circumstances, like moving through rough terrain, squeezing through small spaces, jumping chasms, and so forth.
+* Overcome: Ride is the equivalent of Athletics when you're on horseback (or other-creature-back) or when you're piloting one of the aforementioned vehicles. Use it to do difficult things or to do normal things under difficult circumstances, like moving through rough terrain, squeezing through small spaces, jumping chasms, and so forth.
 * Create an Advantage: You might use Ride to put some distance between yourself and a pursuer, get some extra speed from your horse, or declare that you know a <aspect>Convenient Shortcut</aspect> or something similar.
-* Attack: By default, Ride isn’t an attack skill.
-* Defend: You’ll use Ride to defend against most attacks made against you while you’re on horseback;
+* Attack: By default, Ride isn't an attack skill.
+* Defend: You'll use Ride to defend against most attacks made against you while you're on horseback;
 you can also use it to defend when your mount is under attack.
 
 ### Ride Stunts
 
-* <em>Animal Ken:</em> You can use Ride as if it were Empathy when you’re communicating with domestic animals; you can also use it as if it were Rapport or Intimidate, but you can only communicate basic ideas and simple directions. If you spend a fate point, you can use this stunt on wild animals for the rest of the scene.
+* <em>Animal Ken:</em> You can use Ride as if it were Empathy when you're communicating with domestic animals; you can also use it as if it were Rapport or Intimidate, but you can only communicate basic ideas and simple directions. If you spend a fate point, you can use this stunt on wild animals for the rest of the scene.
 * <em>Ride Like the Wind:</em> You get a +2 to Ride bonuses made to create speed-based advantages.
-* <em>The Whistle:</em> You can spend a fate point and whistle for your horse, and she’ll show up within a few exchanges. It has to be <em>your</em> horse, a horse you’ve owned for a while and created a bond with. Your horse’s arrival can be improbable, but if the GM deems it impossible that he’d be there, you get your fate point back.
+* <em>The Whistle:</em> You can spend a fate point and whistle for your horse, and she'll show up within a few exchanges. It has to be <em>your</em> horse, a horse you've owned for a while and created a bond with. Your horse's arrival can be improbable, but if the GM deems it impossible that he'd be there, you get your fate point back.
 
 ## Survival
 
-Survival is the skill of living off the land, finding shelter, identifying useful (and dangerous) things out in nature, and generally keeping yourself alive when you’re not near civilization.
+Survival is the skill of living off the land, finding shelter, identifying useful (and dangerous) things out in nature, and generally keeping yourself alive when you're not near civilization.
 
-* Overcome: When you overcome an obstacle, you’re finding a place to stay during a storm, gathering food for yourself and your friends, tracking a fugitive through the woods, and so forth. Not getting lost is also a big one and, beyond that, navigating from one point of civilization to another.
-* Create an Advantage: Advantages often come in the form of preparations you’ve made beforehand, like setting a snare or gathering firewood. An advantage could also represent your knowledge of the land (or an opponent’s lack of knowledge). Maybe you know that bush over there has <aspect>Riled Up Vipers</aspect> in it and the guy with the gun doesn’t.
-* Attack: Survival isn’t used for attack.
-* Defense: Survival isn’t generally used for defense either. That said, if the GM wants to model a storm or starvation or some other thing as an attack against you, Survival is the skill you’d be most likely to defend with (either that or Endurance).
+* Overcome: When you overcome an obstacle, you're finding a place to stay during a storm, gathering food for yourself and your friends, tracking a fugitive through the woods, and so forth. Not getting lost is also a big one and, beyond that, navigating from one point of civilization to another.
+* Create an Advantage: Advantages often come in the form of preparations you've made beforehand, like setting a snare or gathering firewood. An advantage could also represent your knowledge of the land (or an opponent's lack of knowledge). Maybe you know that bush over there has <aspect>Riled Up Vipers</aspect> in it and the guy with the gun doesn't.
+* Attack: Survival isn't used for attack.
+* Defense: Survival isn't generally used for defense either. That said, if the GM wants to model a storm or starvation or some other thing as an attack against you, Survival is the skill you'd be most likely to defend with (either that or Endurance).
 
 ### Survival Stunts
 
-* <em>Herb Lore:</em> As long as you’re in a natural environment with access to plants and herbs, you can use Survival instead of Lore to treat wounds and sickness.
-* <em>Pathfinder:</em> You never get lost, even in the worst weather, even in unfamiliar surroundings. You’ve got an internal compass that’s always right and you always know which way is north and the general direction of major landmarks. If you ever find yourself in truly alien surroundings (like maybe you’re in the Folklands and you’ve never been there and don’t know how things work up there), you’re still always allowed to make a Survival roll against Good (+3) opposition to know where you are in relation to landmarks you do know.
+* <em>Herb Lore:</em> As long as you're in a natural environment with access to plants and herbs, you can use Survival instead of Lore to treat wounds and sickness.
+* <em>Pathfinder:</em> You never get lost, even in the worst weather, even in unfamiliar surroundings. You've got an internal compass that's always right and you always know which way is north and the general direction of major landmarks. If you ever find yourself in truly alien surroundings (like maybe you're in the Folklands and you've never been there and don't know how things work up there), you're still always allowed to make a Survival roll against Good (+3) opposition to know where you are in relation to landmarks you do know.
 * <em>Tracker:</em> You get a +2 to Survival rolls made to find and follow tracks in natural environments.
