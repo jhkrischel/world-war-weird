@@ -323,6 +323,10 @@ The next scheduled target for retrieval is Professor Kiyoshi Watanabe of Tokyo U
 * Why was Yvormes *really* gone?
 	- What useful tech has Yvormes managed to acquire?  Is there a catch?
 * Will the USS Arizona survive an attack by Medusa aircraft? [defense]
+	- medusa operatives with paralytic weapons trying to capture hostages
+	- torpedo hit without detonation [bomb defusal]
+	- Japanese Zeros to the resuce! (http://en.wikipedia.org/wiki/Japanese_aircraft_carrier_Sōryū)
+		+ (http://en.wikipedia.org/wiki/Prince_Fushimi_Hiroyasu)
 * What shadowy force will Edward lead the team to in Yokosuka? [scouting]
 	* Will the team survive the encounter? [react to ambush]
 	* Will Medusa be there as well? [escape]
@@ -330,6 +334,7 @@ The next scheduled target for retrieval is Professor Kiyoshi Watanabe of Tokyo U
 		- What will Nome do about it? [hostage rescue]
 * Will the team be able to convince someone at Tokyo University to tell them where Professor Watanabe is currently working?
 	- what test of honor will Seto have to pass? [item retrieval/assault]
+		+ Kamakura Buddha
 	- what mission will Seto be given by his master's master? [chase/bomb planting]
 * Will the team be able to help Professor Watanabe retrieve the alien computing artifact at the dig site? [item retrieval]
 * Will the team be able to rescue Professor Watanabe's wife from Medusa holed up at Odawara Castle? [hostage rescue]
