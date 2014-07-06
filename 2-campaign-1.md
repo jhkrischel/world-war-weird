@@ -350,32 +350,72 @@ The next scheduled target for retrieval is Professor Kiyoshi Watanabe of Tokyo U
 		+ Torpedoes (2) - [ ][ ]
 			* Shoot: 6
 			* Weapon: 4
-			* Armor: 4
+			* Armor: 6
 		+ Bridge - [ ][ ][ ]
 			* Lore: 4
-			* Armor: 3
-		+ Forward Deck - [ ][ ][ ]
+			* Armor: 4
+		+ Forward Deck - [X][X][X]
 			* Shoot: 6
 			* Weapon: 4
-			* Armor: 4
-			* 5" guns (11) - mild
-			* AA guns (2) - moderate
+			* Armor: 6
+			* 5" guns (11) - mild - [X][X][X]
+			* AA guns (2) - moderate [X]
 			* 14" guns (2) - severe
 		+ Rear Deck - [ ][ ][ ]
 			* Shoot: 6
 			* Weapon: 4
-			* Armor: 4
+			* Armor: 6
 			* 5" guns (11) - mild
 			* AA guns (2) - moderate
 			* 14" guns (2) - severe
 		
 * Nameless
-	- Medusa Torpedo Bomber
+	- Medusa Torpedo Bomber - [ ][ ] x 4 (mob)
+		+ Shoot: 2
+		+ Athletics: 1
+		+ Weapon: 2
 	- Medusa Cruiser
+		+ Bridge - [ ][ ]
+			+ Lore: 4
+			+ Armor: 2
+		+ Forward Deck - [ ][ ]
+			* Shoot: 4
+			* Weapon: 2
+			* Armor: 2
+			* AA guns - mild
+			* Ship-to-Ship - moderate
+		+ Rear Deck - [ ][ ][ ]
+			* Shoot: 4
+			* Weapon: 2
+			* Armor: 2
+			* AA guns - mild
+			* Ship-to-Ship - moderate		
 	- Mystery Handler of Edward
 	- Medusa Assassin
+		+ You'll never take me alive!
+		+ Shoot: 5
+		+ Stealth: 4
+		+ Athletics: 3
+		+ Notice: 2
+		+ Physique: 1
+		+ Stress: [ ][ ][ ]
 	- Ninja Warrior
+		+ We own the night!
+		+ Stealth: 5
+		+ Fight: 4
+		+ Athletics: 3
+		+ Notice: 2
+		+ Physique: 1
+		+ Stress: [ ][ ][ ]
 	- Ninja Zombie
+		+ Braaaaaains in service of the Master
+		+ Invisibility Cloak of the Predator
+		+ Stealth: 5
+		+ Fight: 4
+		+ Physique: 3
+		+ Athletics: 2
+		+ Provoke: 1
+		+ Stress: [ ][ ][ ][ ]
 
 # Arc 2: African Safari
 
