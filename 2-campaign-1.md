@@ -320,14 +320,14 @@ It is imperative that you discover who Mr. Sherman is working for, so that we ca
 
 The next scheduled target for retrieval is Professor Kiyoshi Watanabe of Tokyo University.  He's a theoretical mathemetician who is needed for statistical computing analysis on the zombie plague.
 
-* Why was Yvormes *really* gone?
+* Why was Yvormes *really* gone? - DONE
 	- What useful tech has Yvormes managed to acquire?  Is there a catch?
-* Will the USS Arizona survive an attack by Medusa aircraft? [defense]
+* Will the USS Arizona survive an attack by Medusa aircraft? [defense] - DONE
 	- medusa operatives with paralytic weapons trying to capture hostages
-	- torpedo hit without detonation [bomb defusal]
+	- torpedo hit without detonation [bomb defusal] - SKIPPED
 	- Japanese Zeros to the resuce! (http://en.wikipedia.org/wiki/Japanese_aircraft_carrier_Sōryū)
 		+ (http://en.wikipedia.org/wiki/Prince_Fushimi_Hiroyasu)
-* What shadowy force will Edward lead the team to in Yokosuka? [scouting]
+* What shadowy force will Edward lead the team to in Yokosuka? [scouting] - REPLACED WITH HEIST
 	* Will the team survive the encounter? [react to ambush]
 	* Will Medusa be there as well? [escape]
 	* What happened to the real Edward Sherman?
