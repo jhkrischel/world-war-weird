@@ -27,3 +27,15 @@ During quarantine for Tianjin, the team extracts the tracking bug from Chow Yin 
 Edward goes on his way, and the team returns to find the Mingo unattended by any guards.  Calling Echo Base, they learn the Mingo has been radio silent for two days.  Checking against the hull, the team hears zombie activity, and knows the crew of 60 is lost.  Echo Base is informed of the situation, and the Mingo is targeted by battleship fire from off the coast, and explodes into scrap metal and chunks of zombie flesh.
 
 # February 14, 1944 to March 3, 1944 - Tokyo Wako
+
+The team fends off three wings of Medusa Torpedo Bombers on the USS Arizona, and manages to fend off another kidnap attempt on Chow Yin Fat.
+
+Arriving in Yokosuka, the team follows Edward Sherman's tracker into a rail way tunnel in the Yokosuka Rail Yard, and Dr. Google deduces that Edward was in fact abducted by Medusa and taken prisoner in a pachinko casino vault in Tokyo run by Medusa.
+
+Seto manages to take a job as a security guard at the casino, and Dr. Google passes a bad check with the cashier.  Myne then comes in and accuses Dr. Google of passing the bad check in front of the manager.  The manager is convinced to let Seto take them down to the lower levels for "interrogation".
+
+At the vault, Myne quickly cracks the code and finds Edward Sherman chained to the wall with some alien handcuffs.  Myne cracks the cuffs, while Dr. Google outside is found by some guards.  Seto manages to convince them that the interrogation is still going on, and helps Myne drag Edward Sherman's body through the vents from the vault to the interrogation room.  Dr. Google consults with Yvormes, and determines Edward Sherman is in fact Fremulon, an advance guard for a upcoming Fremulon invasion.  Myne slits Edward Sherman's throat, and the crew escapes through the air vents back into the city.
+
+Yvormes' father clues the team into another Fremulon agent location, this one apparently stuck in their statis chamber, undisturbed by the alien zombie plague signal.  The stasis chamber is located in a mausoleum on the outskirts of Tokyo.  The team runs into some minor zombie presence on the way, but manages to get into the mausoleum to open the sarcophagus.  Once open, Myne is just a bit too curious, and touches the Fremulon, who wakes up and attacks Myne.  Yvormes quickly puts down the Fremulon with his stun gun, and the team manages to retrieve the Fremulon Communication Bracelet.
+
+Dr. Google investigates the sarcophagus further, and triggers a booby trap.  Braving certain doom, Dr. Google works through some painful electrical discharge security measures, and manages to disarm the trap.  Further investigation reveals that there are 24 Fremulon agents on earth ahead of the invasion, and the invasion fleet is due in 2 years.

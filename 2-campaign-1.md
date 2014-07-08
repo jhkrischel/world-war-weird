@@ -354,12 +354,12 @@ The next scheduled target for retrieval is Professor Kiyoshi Watanabe of Tokyo U
 		+ Bridge - [ ][ ][ ]
 			* Lore: 4
 			* Armor: 4
-		+ Forward Deck - [X][X][X]
+		+ Forward Deck - [ ][ ][ ]
 			* Shoot: 6
 			* Weapon: 4
 			* Armor: 6
-			* 5" guns (11) - mild - [X][X][X]
-			* AA guns (2) - moderate [X]
+			* 5" guns (11) - mild - [ ][ ][ ]
+			* AA guns (2) - moderate [ ]
 			* 14" guns (2) - severe
 		+ Rear Deck - [ ][ ][ ]
 			* Shoot: 6
