@@ -341,6 +341,22 @@ The next scheduled target for retrieval is Professor Kiyoshi Watanabe of Tokyo U
 	- What will Professor Watanabe's wife think about seeing Dr. Google again?
 	- What will Professor Watanabe's wife think about seeing Myne again?
 
+* Will Myne and Dr. Google survive a kidnap attempt by the Fremulons?
+* Will Myne and Dr. Google escape from the Fremulon secret base?
+	- Will Myne and Dr. Google find a way out of their cell?
+	- Will Myne and Dr. Google find friends also in the prison?
+	- Will Myne and Dr. Google make it past the first level of traps?
+	- Will Myne and Dr. Google make it past the second level of guards?
+	- Will Myne and Dr. Google manage to pilot the spaceship out of the base?
+* Will Myne and Dr. Google learn the secret Fremulon plans?
+* Will Myne and Dr. Google survive a battle of wits with the Fremulon archenemy?
+
+* Will the team get the allied military to attack and destroy the ocean base before it repairs itself?
+* What additional Fremulon plans will they uncover in the computer banks of the shuttle they stole?
+* Will the stolen shuttle survive the Fremulon pursuit?
+* Will the team survive a crash landing on a desert island?
+* What mystery ally will they find on the island, and what attack will they have to fend off?
+
 #### NPCs
 
 * Supporting
@@ -416,6 +432,44 @@ The next scheduled target for retrieval is Professor Kiyoshi Watanabe of Tokyo U
 		+ Athletics: 2
 		+ Provoke: 1
 		+ Stress: [ ][ ][ ][ ]
+	- land shark
+		+ Slippery
+		+ Fight: 4
+		+ Athletics: 3
+		+ Stealth: 2
+		+ Physique: 1
+		+ Weapon: 2
+		+ Stress: [ ][ ][ ]
+	- fremulon traps 
+		+ Frickin Lasers
+		+ Shoot: 4
+		+ Notice: 3
+		+ Burglary: 2
+		+ Physique: 1
+		+ Stress: [ ][ ][ ]
+	- Fremulon Battle Bots - 5 mob (+4 to all skills)
+		+ High speed, limited visibility
+		+ Fight: 4
+		+ Athletics: 3
+		+ Notice: 2
+		+ Physique: 1
+		+ Stress: [ ][ ][ ]
+		+ Mental Stress: [ ][ ]
+	- The Lady
+		- Provoke: 6
+		- Will: 5
+		- Empathy: 5
+		- Decieve: 4
+		- Rapport: 4
+		- Contacts: 3
+		- Notice: 3
+		- Shoot: 2
+		- Stealth: 2
+		- Investigate: 1
+		- Physique: 1
+		+ Stress: [ ][ ][ ]
+		+ Mental Stress: [ ][ ][ ][ ]
+
 
 # Arc 2: African Safari
 
