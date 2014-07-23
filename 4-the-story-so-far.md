@@ -47,3 +47,23 @@ Dr. Google, Yvormes, and Myne are kidnapped by Fremulon Battle Bots, and brought
 On a level of traps, they manage to fight their way past a land shark, some battle bots, a puzzle room, and find some interesting information about Fremulons, the smell of strawberries, and a fear of cold weather.  In a shower section of the level, they meet the mysterious and sensual Fremulon agent, "The Lady", who intimidates everyone except for Edward Sherman.  Ed manages to frighten The Lady off, and the team makes their way up to the shuttle bay.
 
 Once in the shuttle bay, Dr. Google, Yvormes, and Myne manage to breach one of the shuttles, and damage the shuttle bay door to allow it to flood after they escape another wave of Fremulon Battle Bots.  
+
+# March 3, 1944 - March 10, 1944
+
+The team is hunted by three wings of Fremulon fighters, which manage to do a fair bit of damage to the shuttle before Dr. Google is able to activate stealth mode, and Yvormes is able to sneak away.  During the battle, they call upon Sgt. Simms to call in an attack on the Fremulon Carrier, but the attack is ordered to stop, and Sgt. Simms tells the team that they've been compromised before being taken off the air.  General Veers demands the team return to base, but the team pretends to have communication problems.
+
+The team lands on the abandoned island of Iwo Jima, and finds their scanners and engines disabled.  Searching the underground base there, they find a hidden control center, and disable the jammer.  Unfortunately, this gives the Allied Forces under General Veers a lock on their communication devices.  Planning to leave their communication devices behind, the team heads to the shuttle, but the jamming device is reactivated, and Yvormes heads back to the control room they found.
+
+As Yvormes enters, a man huddled over the screens in the control room grumbles, "You guys are late!"
+
+Before General Veers and his ground team arrive via transport plane, the team follows the mysterious Mr. Who into a secret extension to the underground base.
+
+Disoriented at times, Mr. Who explains to the team that he comes from a future where the Allied Forces prevented the creation of a Zombie Cure, and were then stuck in a decades long war with the Fremulon invaders.  Mr. Who was sent back with technology from Yvormes' father from the year 2014, and the only hope the world has is to stop the Allied Forces from their nefarious plot, so that a unified earth can repel the alien invasion.
+
+Mr. Who gives the team four targets - four other teams that were given the same mission profile they were.  Team Philadelphia working in North Africa/Middle East, Team Salem working in South Africa, Team Baton Rouge working in South America, and Team Newport working in Europe.
+
+In order to find Team Philadelphia, Team Manhattan needs to find their communication frequency and crypto protocols (either from the Pentagon or from Echo Base), and needs to obtain several parts for a communications interception device.  Required parts include a ten point weeble-frobber from the Giza Pyramids, a flux superconductor held at Edwards AFB, and a hydraulic capacitor kept at Fort Knox.
+
+Using a high speed submarine provided by Mr. Who, the team first retrieves the ten point weeble-frobber from the pyramid of Kafre.  They hijack an armored messenger car outside of the Suez Canal installation, drive to the Giza Pyramids, sneak in through a secret entrance at the top of the pyramid, and then through hidden tunnels, reach a central chamber where the Master Cultist is guiding his minions in worship.
+
+Dr. Google pretends to be the voice of Osiris, and convinces the cultists to leave while he consults with the Master Cultist.  They buy the ruse, and leave, but the Master Cultist is suspicious, and arms himself with a heavy machine gun.  Yvormes, helped by Myne and Dr. Google, sets of a chain reaction of falling urns, statues, and funerary, that crushes the Master Cultist.  Yvormes pulls the ten point weeble-frobber off of the Master Cultist's neck, and the team escapes back out the secret entrance, after informing the returning cultists, in the voice of Osiris, that the Master Cultist was found unworthy and crushed.

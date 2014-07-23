@@ -1,84 +1,14 @@
-# Current Issue - Alien Zombie Plague Unleashed Upon The World
+# Current Issue - Alien Zombie Plague Accelerated by Alien Agents
 
-We're from the government, and we're here to help.
+24 Advance Fremulon agents were activated with the plague, and there are 22 left trying to speed its spread.
+
+# Current Issue - Allied Forces on the Path To Doom
+
+Warned by an agent from the future, Team Manhattan must stop the Allied Forces from implementing their plan for sole survival.
 
 # Impending Issue - We're not alone in the universe
 
-When did alien contact first happen?  What do they want from us?
-
-# Faces and places (format cribbed from Dresden Files RPG)
-
-## Area 51
-
-* Description: There was a lot more alien activity before Roswell, and here's where the US government put it all.
-* Theme
-	- The Idea: Alien technology is powerful, but poorly understood
-* The Aspect: Shiny Frickin Laser Guns
-* The Face: Professor Particle, recluse genius
-
-## Echo Base, Australia
-
-* Description: Training ground for the Manhattan Project, Echo Base Australia is where boys are turned into men.
-* Theme
-	- The Idea: Practice makes perfect, and we can't have anything less than perfect.
-* The Aspect: Duty, Honor, Planet
-* The Face: Master Sgt. Simms, grizzled veteran of war
-
-## The Jungles of Nam
-
-* Description: Infested with zombies, the lush jungles of Vietnam contain desperate survivors, hardended mercs on patrol, and danger at every turn.
-* Threat
-	- The Idea: Nature is a harsh mistress, especially when filled with alien zombies
-* The Aspect: It's a jungle out there
-* The Face: Hang Vu, orphan survivor of the apocalypse.
-
-## Binhai Docks
-
-* Description: A working dock commandeered by the military used for supply for both Tianjin and Beijing
-* Theme
-	- The Idea: Between the war with Japan, and the zombie apocalypse, most of the soldiers in place are children, trying their best to live up to the adult responsibilities they've been given.
-* The Aspect: Shattered dreams
-* The Face: Sgt. Bai Wen Shang, age 12
-
-## Beijing slums
-
-* Description: Opium dens, gambling houses, and other places of ill repute.
-* Threat
-	- The Idea: The Tongs fill a power vacuum left by the zombie apocalypse, and guard their prerogatives jealously.
-* The Aspect: Never will you find a more wretched hive of scum and villainy
-* The Face: Zhu Shi Li, Tong fixer
-
-## Odawara Castle
-
-* Description: The classic Game of Death castle of doom.
-* Threat
-	- The Idea: Professor Watanabe's wife held captive by Medusa
-* The Aspect: It's a rough climb to the top
-* The Face: Suzuko Watanabe, Old Maid in Distress
-
-## Yokosuka Rail Yard
-
-* Description: Military traffic hub
-* Threat
-	- The Idea: Edward Sherman's doppleganger reports to his masters here
-* The Aspect: Hiding in plain sight
-* The Face: Edward Sherman, Evil Doppleganger
-
-## Tokyo University
-
-* Description: Dedicated to preserving the culture of Nippon
-* Theme
-	- The Idea: Behind the facade, the University is protected by an honor guard of ninja masters
-* The Aspect: Secrets within the walls
-* The Face: Janitor Hachiro, Ninja Overlord
-
-## [Toro](http://en.wikipedia.org/wiki/Toro_(archaeological_site))
-
-* Description: Ancient alien contaminated village site
-* Theme
-	- The Idea: Construction on a military munitions site leads ot the discovery of an ancient village, that just so happens to have some alien influence.
-* The Aspect: Buried in the Sands of Time, Aliens live
-* The Face: Professor Kiyoshi Watanabe
+Fremulon invasion fleet due in February, 1946.
 
 # Arc 1: The Orient Express
 
@@ -86,7 +16,7 @@ When did alien contact first happen?  What do they want from us?
 
 ### The Fall of Saigon
 
-The first rescue is for Dr. Vinh Man Dan in New Free Saigon.  Since there is a naval blockade, a direct approach is impossible.  The team will be inserted via submarine, east up the coast of the main harbor entrance (https://www.google.com.au/maps/place/Khu+bảo+tồn+thiên+nhiên+Bình+Châu+-+Phước+Bửu/@10.518294,107.467686,13z/data=!4m2!3m1!1s0x0:0x252ed8a21cef22ff?hl=en_uk).  The journey through the jungle is approximately 65 miles, which will take approximately 7 days on foot.
+The first rescue is for Dr. Vinh Man Dan in New Free Saigon.  Since there is a naval blockade, a direct approach is impossible.  The team will be inserted via submarine, [east up the coast of the main harbor entrance](https://www.google.com.au/maps/place/Khu+bảo+tồn+thiên+nhiên+Bình+Châu+-+Phước+Bửu/@10.518294,107.467686,13z/data=!4m2!3m1!1s0x0:0x252ed8a21cef22ff?hl=en_uk).  The journey through the jungle is approximately 65 miles, which will take approximately 7 days on foot.
 
 New Free Saigon is currently ruled by [Jean Decoux](http://en.wikipedia.org/wiki/Jean_Decoux), who has maintained a strict quarantine zone around the city - no visitors are allowed in or out.  Trade on the docks is done without allowing any contact between city dwellers, and ship crews.  Occasional forays by armed patrols are made for food inland, but they are subject to a strict 5 day quarantine when returning to the city.
 
@@ -114,68 +44,6 @@ The team has been equipped with alien communication devices, each the size of a 
 	- jungle boogie
 	- zombies don't surf
 	- there's no place like home
-
-#### NPCs
-
-* Nameless
-
-	- Average Zombie
-		+ Braaaaaains
-		+ Fight: 1
-	- Fair Zombie
-		+ Braaaaaains
-		+ Fight: 2
-		+ Provoke: 1
-		+ Stress: [ ]
-	- Good Zombie
-		+ Braaaaaains
-		+ Fight: 3
-		+ Provoke: 2
-		+ Athletics: 1
-		+ Stress: [ ][ ]
-	- Survivor (Average)
-		+ Run away!
-		+ Athletics: 1
-	- Patrol Merc (Good)
-		+ Shoot on sight
-		+ Shoot: 3
-		+ Athletics: 2
-		+ Notice: 1
-		+ Physique: 1
-		+ Stress: [ ][ ][ ]
-
-* Supporting
-
-	- Dr. Vin Man Dan: Molecular Biologist before it was Cool
-		- Trouble: The whole world depends on me
-		- Aspect 1: Inner peace
-		- Aspect 2: Why did it have to be snakes?
-		- Stunt: Body Knowledge - use Lore to attack in hand to hand combat against unarmored opponents
-		- Physical Stress: [ ][ ]
-		- Mental Stress: [ ][ ]
-		- Mild (2):
-		- Moderate (4): 
-		- Skills
-			- Lore: 5
-			- Investigate: 4
-			- Notice: 3
-			- Stealth: 2
-			- Athletics: 1
-
-	- Hang Vu: Orphan Survivor of the Apocalypse
-		- Trouble: My Speech was stolen by Terror
-		- Aspect 1: Booby traps!
-		- Aspect 2: I Will Survive.
-		- Stunt: Stealth - Ninja Vanish
-		- Physical Stress: [ ][ ]
-		- Mental Stress: [ ][ ]
-		- Mild (2):
-		- Skills
-			- Stealth: 5
-			- Notice: 4
-			- Athletics: 3
-			- Burglary: 2
-			- Investigate: 1
 
 ### The Forbidden City
 
@@ -224,92 +92,6 @@ Our next mission is the recovery and return of Colonel Chow Yin Fat, a weapons a
 * Will the team make it safely back to Tianjin?
 	- What tragedy will they find when they return?
 
-#### NPCs
-
-* Supporting
-
-	- Du Tu Soon: Shady Spymaster
-		- Trouble: On the wrong side of history
-		- Aspect 1: Functional drug addict
-		- Aspect 2: More than meets the eye
-		- Physical Stress: [ ][ ]
-		- Mental Stress: [ ][ ]
-		- Mild (2):
-		- Moderate (4): 
-		- Skills
-			- Deceive: 5
-			- Investigate: 4
-			- Notice: 3
-			- Stealth: 2
-			- Athletics: 1
-
-	- Colonel Chow Yin Fat: Weapons Designer of the Middle Kingdom
-		- Trouble: Where did I leave my glasses?
-		- Aspect 1: We need more power!
-		- Aspect 2: Kung Fu Master
-		- Physical Stress: [ ][ ][ ]
-		- Mental Stress: [ ][ ][ ]
-		- Mild (2):
-		- Moderate (4): 
-		- Skills
-			- Fight: 5
-			- Lore: 4
-			- Shoot: 4
-			- Notice: 3
-			- Stealth: 3
-			- Athletics: 2
-			- Provoke: 2
-			- Will: 1
-			- Physique: 1
-
-* Nameless
-
-	- Panda Zombie
-		+ Braaaaaains
-		+ Eerily Cute
-		+ Fight: 4
-		+ Physique: 3
-		+ Athletics: 2
-		+ Provoke: 1
-		+ Stress: [ ][ ][ ][ ]
-	- Medusa Ninja (Good)
-		+ You'll never take me alive!
-		+ Fight: 4
-		+ Shoot: 3
-		+ Athletics: 2
-		+ Notice: 1
-		+ Physique: 1
-		+ Stress: [ ][ ][ ]
-	- Medusa Grunt (Fair)
-		+ Just following orders
-		+ Shoot: 2
-		+ Athletics: 1
-		+ Stress: [ ]
-	- Medusa Patrol (Fair)
-		+ Call for help!
-		+ Notice: 2
-		+ Shoot: 1
-		+ Stress: [ ]
-	- Armored Car
-		+ Off road
-		+ Military grade
-		+ Limited Visibility
-		+ Shoot: 5
-		+ Fight: 5
-		+ Armor: 2 - Heavy Steel Plating
-		+ Weapon: 2 - mounted .50 cal
-		+ Mild (2): 
-		+ Moderate (4):
-		+ Severe (6):
-		+ Stress: [ ][ ][ ]
-	- 2 ton truck
-		+ Heavy Load
-		+ External Fuel Tanks
-		+ Low and slow gear
-		+ Fight: 4
-		+ Mild (2): 
-		+ Stress: [ ]
-
 ### Tokyo Wako
 
 Attention team!  The loss of the USS Mingo and her crew is mourned by all here at Echo Base.  We're just grateful your team wasn't among the victims.
@@ -351,125 +133,20 @@ The next scheduled target for retrieval is Professor Kiyoshi Watanabe of Tokyo U
 * Will Myne and Dr. Google learn the secret Fremulon plans?
 * Will Myne and Dr. Google survive a battle of wits with the Fremulon archenemy?
 
-* Will the team get the allied military to attack and destroy the ocean base before it repairs itself?
-* What additional Fremulon plans will they uncover in the computer banks of the shuttle they stole?
+### Fremulon Interlude
+
 * Will the stolen shuttle survive the Fremulon pursuit?
+* Will the team get the allied military to attack and destroy the ocean base before it repairs itself? (negotiation)
+	- Who ordered the assault to stand down?
+	- Will the team continue to follow orders after their last message from Sgt. Simms?
+* What additional Fremulon plans will they uncover in the computer banks of the shuttle they stole?
+	- What alien artifact will they have to retrieve before the Fremulons do? (item retrieval)
+	- What city is next on their hit list? (assassinate specific hostile)
 * Will the team survive a crash landing on a desert island?
-* What mystery ally will they find on the island, and what attack will they have to fend off?
+* What mystery ally will they find on the island, and what attack will they have to fend off? (hold area under assault)
+	- What secrets will the team learn about the future?
 
-#### NPCs
-
-* Supporting
-	- Professor Kiyoshi Watanabe: Mad Math Genius
-	- Mrs. Suzuko Watanabe: Lady Of Diverse Tastes
-	- USS Arizona: Alien Enhanced Battleship
-		+ Torpedoes (2) - [ ][ ]
-			* Shoot: 6
-			* Weapon: 4
-			* Armor: 6
-		+ Bridge - [ ][ ][ ]
-			* Lore: 4
-			* Armor: 4
-		+ Forward Deck - [ ][ ][ ]
-			* Shoot: 6
-			* Weapon: 4
-			* Armor: 6
-			* 5" guns (11) - mild - [ ][ ][ ]
-			* AA guns (2) - moderate [ ]
-			* 14" guns (2) - severe
-		+ Rear Deck - [ ][ ][ ]
-			* Shoot: 6
-			* Weapon: 4
-			* Armor: 6
-			* 5" guns (11) - mild
-			* AA guns (2) - moderate
-			* 14" guns (2) - severe
-		
-* Nameless
-	- Medusa Torpedo Bomber - [ ][ ] x 4 (mob)
-		+ Shoot: 2
-		+ Athletics: 1
-		+ Weapon: 2
-	- Medusa Cruiser
-		+ Bridge - [ ][ ]
-			+ Lore: 4
-			+ Armor: 2
-		+ Forward Deck - [ ][ ]
-			* Shoot: 4
-			* Weapon: 2
-			* Armor: 2
-			* AA guns - mild
-			* Ship-to-Ship - moderate
-		+ Rear Deck - [ ][ ][ ]
-			* Shoot: 4
-			* Weapon: 2
-			* Armor: 2
-			* AA guns - mild
-			* Ship-to-Ship - moderate		
-	- Mystery Handler of Edward
-	- Medusa Assassin
-		+ You'll never take me alive!
-		+ Shoot: 5
-		+ Stealth: 4
-		+ Athletics: 3
-		+ Notice: 2
-		+ Physique: 1
-		+ Stress: [ ][ ][ ]
-	- Ninja Warrior
-		+ We own the night!
-		+ Stealth: 5
-		+ Fight: 4
-		+ Athletics: 3
-		+ Notice: 2
-		+ Physique: 1
-		+ Stress: [ ][ ][ ]
-	- Ninja Zombie
-		+ Braaaaaains in service of the Master
-		+ Invisibility Cloak of the Predator
-		+ Stealth: 5
-		+ Fight: 4
-		+ Physique: 3
-		+ Athletics: 2
-		+ Provoke: 1
-		+ Stress: [ ][ ][ ][ ]
-	- land shark
-		+ Slippery
-		+ Fight: 4
-		+ Athletics: 3
-		+ Stealth: 2
-		+ Physique: 1
-		+ Weapon: 2
-		+ Stress: [ ][ ][ ]
-	- fremulon traps 
-		+ Frickin Lasers
-		+ Shoot: 4
-		+ Notice: 3
-		+ Burglary: 2
-		+ Physique: 1
-		+ Stress: [ ][ ][ ]
-	- Fremulon Battle Bots - 5 mob (+4 to all skills)
-		+ High speed, limited visibility
-		+ Fight: 4
-		+ Athletics: 3
-		+ Notice: 2
-		+ Physique: 1
-		+ Stress: [ ][ ][ ]
-		+ Mental Stress: [ ][ ]
-	- The Lady
-		- Provoke: 6
-		- Will: 5
-		- Empathy: 5
-		- Decieve: 4
-		- Rapport: 4
-		- Contacts: 3
-		- Notice: 3
-		- Shoot: 2
-		- Stealth: 2
-		- Investigate: 1
-		- Physique: 1
-		+ Stress: [ ][ ][ ]
-		+ Mental Stress: [ ][ ][ ][ ]
-
+### Mr. Who
 
 # Arc 2: African Safari
 

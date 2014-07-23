@@ -2,7 +2,7 @@
 
 ## Alternate Timeline
 
-Germany maintains their alliance with the Soviets in November of 1940 negotiations, adding them to the Tripartite Pact.
+Germany maintains their alliance with the Soviets in November of 1940 negotiations, adding them to the [Tripartite Pact](http://en.wikipedia.org/wiki/Tripartite_Pact).
 
 Soviet support of the Axis, in particular Japan, makes the American-British-Dutch sanctions meaningless, and Japan doesn't draw the United States into the war.  November 20, 1941, negotiations between Japan and the US fail, but are nominally continued indefinitely, with Japan unscathed by US economic policy.  Japan's rampage through China and South East Asia continue unchecked.
 

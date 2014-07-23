@@ -116,7 +116,7 @@ Note: FAE only supports the second version of concession.
 
 # Create Advantages in combat
 
-## Grappling
+## Grappling - active opposition to creation; active resistance to removal/opposed actions
 
 * Physique vs. physique to establish grapple (create advantage)
 * Physique vs. physique to break grapple (overcome)
@@ -138,7 +138,7 @@ Note: FAE only supports the second version of concession.
 			* Grappler rolls once with Physique to interfere
 			* If pinned character beats grappler, the non-grappling character gets a defense roll against the pinned character's original roll
 
-## Covering fire
+## Covering fire - passive opposition to creation; active resistance to removal/opposed actions
 
 * Create advantage roll against difficulty determined by GM (how difficult is it to cover the area in question)
 * Free active resistance with Shoot against movement through the area (athletics/stealth overcome roll)
@@ -179,3 +179,29 @@ Survival is the skill of living off the land, finding shelter, identifying usefu
 * <em>Herb Lore:</em> As long as you're in a natural environment with access to plants and herbs, you can use Survival instead of Lore to treat wounds and sickness.
 * <em>Pathfinder:</em> You never get lost, even in the worst weather, even in unfamiliar surroundings. You've got an internal compass that's always right and you always know which way is north and the general direction of major landmarks. If you ever find yourself in truly alien surroundings (like maybe you're in the Folklands and you've never been there and don't know how things work up there), you're still always allowed to make a Survival roll against Good (+3) opposition to know where you are in relation to landmarks you do know.
 * <em>Tracker:</em> You get a +2 to Survival rolls made to find and follow tracks in natural environments.
+
+# overcome boost minor cost paradox
+
+Player attempts an overcome action with skill 2 against the boost with a GM defined target # of 2.
+
+Roll: 0
+Skill: 2
+Target: 2
+
+TIE - succeed in removing the boost, but minor cost is another boost
+
+Roll: 1
+Skill: 2
+Target: 2
+Invoke Boost: 2
+
+FAIL - failed in removing the boost, but boost was used up to cause the failure
+
+Roll: 2
+Skill: 2
+Target: 2
+Invoke Boost: 2
+
+TIE - succeed in removing the boost, but minor cost is another boost
+
+Paradox: a roll of 2 is better than a roll of 1, but has a worse outcome for the player.
