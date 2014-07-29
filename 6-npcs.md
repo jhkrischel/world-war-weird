@@ -269,7 +269,7 @@
 		+ Athletics: 2
 		+ Notice: 1
 		+ Drive: 1
-		+ Stress: [X][X][X]
+		+ Stress: [ ][ ][ ]
 		+ Mild: Smokin' Engine [ ]
 	- FREMULON: Pursuit Fighter - 3 mob (+2 to all skills)
 		+ Fragile, but Deadly
@@ -281,6 +281,35 @@
 		+ Stealth: 1
 		+ Deceive: 1
 		+ Stress: [ ]
+	- FREMULON: Buddha Battle Bot
+		+ Slow on the uptake
+		+ Strong as a steel bull
+		+ Armor: 3
+		+ Left Arm
+			* Shoot: 3
+			* [ ][ ]
+		+ Right Arm
+			* Shoot: 3
+			* [ ][ ]
+		+ Torso
+			* Physique: 4
+			* Shoot: 2
+			* [ ][ ][ ] 
+		+ Head
+			* Provoke: 5
+			* [ ]
+		+ Legs
+			* Fight: 4
+			* [ ][ ]
+	- FREMULON: Robot Ninja Warrior
+		+ We own the night!
+		+ Stealth: 5
+		+ Fight: 4
+		+ Athletics: 3
+		+ Notice: 2
+		+ Physique: 1
+		+ Stress: [ ][ ][ ]
+
 
 - Mr. Hu
 	+ Stealth: 4
