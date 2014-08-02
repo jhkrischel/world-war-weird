@@ -151,6 +151,8 @@
 * Supporting
 
 	- ALLIED: Professor Kiyoshi Watanabe: Mad Math Genius
+		+ Lore: 4
+		+ Notice: 3
 
 	- ALLIED: Mrs. Suzuko Watanabe: Lady Of Diverse Tastes
 
