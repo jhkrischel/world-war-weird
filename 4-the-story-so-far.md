@@ -67,3 +67,24 @@ In order to find Team Philadelphia, Team Manhattan needs to find their communica
 Using a high speed submarine provided by Mr. Who, the team first retrieves the ten point weeble-frobber from the pyramid of Kafre.  They hijack an armored messenger car outside of the Suez Canal installation, drive to the Giza Pyramids, sneak in through a secret entrance at the top of the pyramid, and then through hidden tunnels, reach a central chamber where the Master Cultist is guiding his minions in worship.
 
 Dr. Google pretends to be the voice of Osiris, and convinces the cultists to leave while he consults with the Master Cultist.  They buy the ruse, and leave, but the Master Cultist is suspicious, and arms himself with a heavy machine gun.  Yvormes, helped by Myne and Dr. Google, sets of a chain reaction of falling urns, statues, and funerary, that crushes the Master Cultist.  Yvormes pulls the ten point weeble-frobber off of the Master Cultist's neck, and the team escapes back out the secret entrance, after informing the returning cultists, in the voice of Osiris, that the Master Cultist was found unworthy and crushed.
+
+
+# February 14, 1944 to March 3, 1944 - Tokyo Wako Flashback
+
+Seto is given a secret quest to retrieve cleaning rags from the Kamakura Buddha, by the ninja masters disguised as janitorial staff at Tokyo University.  Seto convinces the group to search for Watanabe there, without giving away his secret mission.
+
+The team fights off some fremulon ninja bots, and then have to fight of the Kamakura Buddha itself, which was turned into a battle bot by fremulon nanites.  The team succeeds, destroying the opposition, and Seto quietly pockets the cleaning rags he was supposed to retrieve.  As part of the investigation of the wreckage, they learn that 10 of the original Kamakura monks were actually fremulon agents, who killed all the other monks.
+
+Returning to Tokyo University, Seto is given detailed location information by his ninja master for Watanabe.  The team heads out to the Toro dig site, where Watanabe-san is working.  On the way to the site, Seto, the crazy asian driver, ignores his check engine light, and the jeep breaks down on the south slope of Mount Fuji, where they fight off a handful of zombies.
+
+Myne repairs the jeep, and the group heads on to the Toro dig site.  The team is subjected to a routine quarantine again, and Dr. Wiki Google helps Watanabe break through a lock on the 3rd level of the dig.  The entire site is generally constructed of materials impervious to any harm by human weaponry.
+
+On their way through the new levels, Seto is snapped up by a trap door and sent down into the detention level 20.
+
+Various medical robots attack the team, trying to "fix" the fact that they have two arms (rather than one as the original aliens did).  The team fights back, which triggers repair robots to come, and they follow the repair robots down the service elevator, trying to reach Seto.
+
+Seto manages to fight off several medical robots that come after him, and starts working his way out of the detention center to meet back up with the rest of the team.
+
+Investigating the base the team learns that the site belonged to the Raleks - one armed aliens who had originally lived where the crab nebulae is today (their homeworld vaporized).  They came to earth to stop an airborne version of ebola that would have wiped out humanity, after the fremulons had already arrived (although they never interacted with them).  Apparently the Raleks were responsible for much of Nordic culture as well.
+
+Their base had gone into hibernation after their homeworld was destroyed, but only one of the cryo tubes they had was still in working order.  As the base begins to tear itself apart (the reactivated systems start to overload), the team rescues the last Ralek, escapes the base, as an explosion of epic proportions spews into the sky.  As the team drives away escaping with the jeep, Mount Fuji erupts in front of them, set off by the exploding base.
