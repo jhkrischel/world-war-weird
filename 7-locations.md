@@ -71,3 +71,25 @@
 	- The Idea: Construction on a military munitions site leads ot the discovery of an ancient village, that just so happens to have some alien influence.
 * The Aspect: Buried in the Sands of Time, Aliens live
 * The Face: Professor Kiyoshi Watanabe
+
+## Iwo Jima
+
+* Description: Secret base of Mr. Hu
+* Theme
+	- The Idea: Mr. Hu has been patiently preparing to aid the team, traveling back in time from a bad future.
+* The Aspect: The Lair of a well intentioned Mad Man
+* The Face: Mr. Hu
+
+## The Pentagon
+
+## Giza Pyramids
+
+* Description: Heart of the Cult of Osiris
+* Threat
+	- The Idea: A group of cult worshippers seems invulnerable to the zombies, and worship an artifact needed by the team.
+* The Aspect: True Believers will believe almost anything.
+* The Face: Master Cultist, High Priest of Kafre 
+
+## Edwards AFB
+
+## Fort Knox

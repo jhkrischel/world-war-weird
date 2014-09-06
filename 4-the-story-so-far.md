@@ -56,18 +56,17 @@ The team lands on the abandoned island of Iwo Jima, and finds their scanners and
 
 As Yvormes enters, a man huddled over the screens in the control room grumbles, "You guys are late!"
 
-Before General Veers and his ground team arrive via transport plane, the team follows the mysterious Mr. Who into a secret extension to the underground base.
+Before General Veers and his ground team arrive via transport plane, the team follows the mysterious Mr. Hu into a secret extension to the underground base.
 
-Disoriented at times, Mr. Who explains to the team that he comes from a future where the Allied Forces prevented the creation of a Zombie Cure, and were then stuck in a decades long war with the Fremulon invaders.  Mr. Who was sent back with technology from Yvormes' father from the year 2014, and the only hope the world has is to stop the Allied Forces from their nefarious plot, so that a unified earth can repel the alien invasion.
+Disoriented at times, Mr. Hu explains to the team that he comes from a future where the Allied Forces prevented the creation of a Zombie Cure, and were then stuck in a decades long war with the Fremulon invaders.  Mr. Hu was sent back with technology from Yvormes' father from the year 2014, and the only hope the world has is to stop the Allied Forces from their nefarious plot, so that a unified earth can repel the alien invasion.
 
-Mr. Who gives the team four targets - four other teams that were given the same mission profile they were.  Team Philadelphia working in North Africa/Middle East, Team Salem working in South Africa, Team Baton Rouge working in South America, and Team Newport working in Europe.
+Mr. Hu gives the team four targets - four other teams that were given the same mission profile they were.  Team Philadelphia working in North Africa/Middle East, Team Salem working in South Africa, Team Baton Rouge working in South America, and Team Newport working in Europe.
 
 In order to find Team Philadelphia, Team Manhattan needs to find their communication frequency and crypto protocols (either from the Pentagon or from Echo Base), and needs to obtain several parts for a communications interception device.  Required parts include a ten point weeble-frobber from the Giza Pyramids, a flux superconductor held at Edwards AFB, and a hydraulic capacitor kept at Fort Knox.
 
-Using a high speed submarine provided by Mr. Who, the team first retrieves the ten point weeble-frobber from the pyramid of Kafre.  They hijack an armored messenger car outside of the Suez Canal installation, drive to the Giza Pyramids, sneak in through a secret entrance at the top of the pyramid, and then through hidden tunnels, reach a central chamber where the Master Cultist is guiding his minions in worship.
+Using a high speed submarine provided by Mr. Hu, the team first retrieves the ten point weeble-frobber from the pyramid of Kafre.  They hijack an armored messenger car outside of the Suez Canal installation, drive to the Giza Pyramids, sneak in through a secret entrance at the top of the pyramid, and then through hidden tunnels, reach a central chamber where the Master Cultist is guiding his minions in worship.
 
 Dr. Google pretends to be the voice of Osiris, and convinces the cultists to leave while he consults with the Master Cultist.  They buy the ruse, and leave, but the Master Cultist is suspicious, and arms himself with a heavy machine gun.  Yvormes, helped by Myne and Dr. Google, sets of a chain reaction of falling urns, statues, and funerary, that crushes the Master Cultist.  Yvormes pulls the ten point weeble-frobber off of the Master Cultist's neck, and the team escapes back out the secret entrance, after informing the returning cultists, in the voice of Osiris, that the Master Cultist was found unworthy and crushed.
-
 
 # February 14, 1944 to March 3, 1944 - Tokyo Wako Flashback
 
