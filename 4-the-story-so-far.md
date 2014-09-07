@@ -87,3 +87,15 @@ Seto manages to fight off several medical robots that come after him, and starts
 Investigating the base the team learns that the site belonged to the Raleks - one armed aliens who had originally lived where the crab nebulae is today (their homeworld vaporized).  They came to earth to stop an airborne version of ebola that would have wiped out humanity, after the fremulons had already arrived (although they never interacted with them).  Apparently the Raleks were responsible for much of Nordic culture as well.
 
 Their base had gone into hibernation after their homeworld was destroyed, but only one of the cryo tubes they had was still in working order.  As the base begins to tear itself apart (the reactivated systems start to overload), the team rescues the last Ralek, retrieves the alien computing artifact Watanabe was looking for, escapes the base, as an explosion of epic proportions spews into the sky.  As the team drives away escaping with the jeep, Mount Fuji erupts in front of them, set off by the exploding base.
+
+Myne, who had spent the previous week designing a new helicopter, was headed out to join them and arrives shortly after Mount Fuji erupts, and saves the team from certain doom.
+
+# March 10, 1944 - March 30, 1944 - flash forward
+
+Seto and Nome steal a midget submarine and make their way to Mr. Hu's base, where they meet up with the rest of the team after the Giza heist.  They decide to go after the flux superconductor at Edwards AFB.
+
+The team chooses to land south of the border, close to Tijuana and barely makes it by the naval picket line.  Dr. Wiki Google buys the only motorized transport in town (a vespa), while Myne steals a bicycle and a horse.
+
+The team manages to sneak across the border at night in their various odd transportation modes, and then hops on a freight train to Victorville.  Hiding out in a snake filled freight car, the team avoids detection, and survives the jump off the train.
+
+In order to infiltrate Edwards AFB, the team instigates a bar fight at the Sloppy Jalopy, and grabs the uniforms from several of the knocked out airmen, and locks them up in a local motel before preparing to bluff their way into Edwards AFB.
